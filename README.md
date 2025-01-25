@@ -33,4 +33,4 @@ Currently, two official plugins are available:
     npm run dev
     ```
 
-5. Open the app in your browser at `http://localhost:3000`.
+5. Open the app in your browser at `http://localhost:5173`.
