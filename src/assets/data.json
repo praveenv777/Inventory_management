@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1,
+    "name": "Men's T-Shirt",
+    "category": "Clothing",
+    "subcategory": "Men's Clothing",
+    "attributes": {
+      "Size": "M",
+      "Color": "Blue",
+      "Brand": "Nike",
+      "Material": "Cotton"
+    },
+    "quantity": 15
+  },
+  {
+    "id": 2,
+    "name": "Women's Running Shoes",
+    "category": "Clothing",
+    "subcategory": "Women's Shoes",
+    "attributes": {
+      "Size": "8",
+      "Color": "Red",
+      "Brand": "Adidas",
+      "Material": "Synthetic"
+    },
+    "quantity": 8
+  },
+  {
+    "id": 3,
+    "name": "Laptop Backpack",
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "attributes": {
+      "Color": "Black",
+      "Brand": "Samsonite",
+      "Material": "Polyester"
+    },
+    "quantity": 20
+  },
+  {
+    "id": 4,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "subcategory": "Mobile Phones",
+    "attributes": {
+      "Brand": "Apple",
+      "Model": "iPhone 14",
+      "Storage": "128GB",
+      "Color": "Silver"
+    },
+    "quantity": 5
+  },
+  {
+    "id": 5,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "attributes": {
+      "Brand": "Sony",
+      "Model": "WH-1000XM4",
+      "Color": "Black"
+    },
+    "quantity": 12
+  },
+  {
+    "id": 6,
+    "name": "Espresso Machine",
+    "category": "Home Goods",
+    "subcategory": "Kitchen Appliances",
+    "attributes": {
+      "Brand": "Breville",
+      "Model": "Barista Express",
+      "Color": "Stainless Steel"
+    },
+    "quantity": 7
+  },
+  {
+    "id": 7,
+    "name": "Yoga Mat",
+    "category": "Sports",
+    "subcategory": "Fitness",
+    "attributes": {
+      "Color": "Purple",
+      "Brand": "Lululemon",
+      "Material": "PVC"
+    },
+    "quantity": 25
+  },
+  {
+    "id": 8,
+    "name": "Gaming Keyboard",
+    "category": "Electronics",
+    "subcategory": "Computer Accessories",
+    "attributes": {
+      "Brand": "Razer",
+      "Model": "BlackWidow",
+      "Color": "Green"
+    },
+    "quantity": 9
+  },
+  {
+    "id": 9,
+    "name": "Blender",
+    "category": "Home Goods",
+    "subcategory": "Kitchen Appliances",
+    "attributes": {
+      "Brand": "NutriBullet",
+      "Model": "Pro 900",
+      "Color": "Red"
+    },
+    "quantity": 14
+  },
+  {
+    "id": 10,
+    "name": "Digital Camera",
+    "category": "Electronics",
+    "subcategory": "Cameras",
+    "attributes": {
+      "Brand": "Canon",
+      "Model": "EOS Rebel T7",
+      "Megapixels": "24.1"
+    },
+    "quantity": 6
+  },
+  {
+    "id": 11,
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "subcategory": "Men's Clothing",
+    "attributes": {
+      "Size": "L",
+      "Color": "Brown",
+      "Brand": "Zara",
+      "Material": "Leather"
+    },
+    "quantity": 4
+  },
+  {
+    "id": 12,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "attributes": {
+      "Brand": "JBL",
+      "Model": "Flip 5",
+      "Color": "Blue"
+    },
+    "quantity": 18
+  },
+  {
+    "id": 13,
+    "name": "Organic Green Tea",
+    "category": "Groceries",
+    "subcategory": "Beverages",
+    "attributes": {
+      "Brand": "Twinings",
+      "Size": "20 bags",
+      "Flavor": "Green"
+    },
+    "quantity": 30
+  },
+  {
+    "id": 14,
+    "name": "Stainless Steel Knife Set",
+    "category": "Home Goods",
+    "subcategory": "Kitchenware",
+    "attributes": {
+      "Brand": "Victorinox",
+      "Pieces": 15,
+      "Material": "Stainless Steel"
+    },
+    "quantity": 10
+  },
+  {
+    "id": 15,
+    "name": "Electric Toothbrush",
+    "category": "Personal Care",
+    "subcategory": "Oral Care",
+    "attributes": {
+      "Brand": "Philips",
+      "Model": "Sonicare",
+      "Color": "White"
+    },
+    "quantity": 22
+  },
+  {
+    "id": 16,
+    "name": "4K LED Monitor",
+    "category": "Electronics",
+    "subcategory": "Computer Accessories",
+    "attributes": {
+      "Brand": "Dell",
+      "Size": "27 inches",
+      "Resolution": "3840x2160"
+    },
+    "quantity": 11
+  },
+  {
+    "id": 17,
+    "name": "Men's Running Shorts",
+    "category": "Clothing",
+    "subcategory": "Men's Clothing",
+    "attributes": {
+      "Size": "S",
+      "Color": "Gray",
+      "Brand": "Under Armour",
+      "Material": "Polyester"
+    },
+    "quantity": 16
+  },
+  {
+    "id": 18,
+    "name": "LED Desk Lamp",
+    "category": "Home Goods",
+    "subcategory": "Lighting",
+    "attributes": {
+      "Brand": "BenQ",
+      "Model": "e-Reading",
+      "Color": "Black"
+    },
+    "quantity": 13
+  },
+  {
+    "id": 19,
+    "name": "Ceramic Dinner Set",
+    "category": "Home Goods",
+    "subcategory": "Kitchenware",
+    "attributes": {
+      "Brand": "Corelle",
+      "Pieces": 16,
+      "Color": "White"
+    },
+    "quantity": 9
+  },
+  {
+    "id": 20,
+    "name": "Smartwatch",
+    "category": "Electronics",
+    "subcategory": "Wearables",
+    "attributes": {
+      "Brand": "Samsung",
+      "Model": "Galaxy Watch 4",
+      "Color": "Black"
+    },
+    "quantity": 7
+  },
+  {
+    "id": 21,
+    "name": "Yoga Pants",
+    "category": "Clothing",
+    "subcategory": "Women's Clothing",
+    "attributes": {
+      "Size": "S",
+      "Color": "Black",
+      "Brand": "Lululemon",
+      "Material": "Nylon"
+    },
+    "quantity": 19
+  },
+  {
+    "id": 22,
+    "name": "Electric Kettle",
+    "category": "Home Goods",
+    "subcategory": "Kitchen Appliances",
+    "attributes": {
+      "Brand": "Hamilton Beach",
+      "Model": "35880",
+      "Color": "Silver"
+    },
+    "quantity": 17
+  },
+  {
+    "id": 23,
+    "name": "Gaming Mouse",
+    "category": "Electronics",
+    "subcategory": "Computer Accessories",
+    "attributes": {
+      "Brand": "Logitech",
+      "Model": "G502",
+      "Color": "Black"
+    },
+    "quantity": 14
+  },
+  {
+    "id": 24,
+    "name": "Men's Casual Shirt",
+    "category": "Clothing",
+    "subcategory": "Men's Clothing",
+    "attributes": {
+      "Size": "XL",
+      "Color": "White",
+      "Brand": "Gap",
+      "Material": "Linen"
+    },
+    "quantity": 21
+  },
+  {
+    "id": 25,
+    "name": "Air Purifier",
+    "category": "Home Goods",
+    "subcategory": "Home Appliances",
+    "attributes": {
+      "Brand": "Dyson",
+      "Model": "Pure Cool",
+      "Color": "White"
+    },
+    "quantity": 6
+  },
+  {
+    "id": 26,
+    "name": "Bluetooth Earbuds",
+    "category": "Electronics",
+    "subcategory": "Audio",
+    "attributes": {
+      "Brand": "Apple",
+      "Model": "AirPods Pro",
+      "Color": "White"
+    },
+    "quantity": 23
+  },
+  {
+    "id": 27,
+    "name": "Stainless Steel Cookware Set",
+    "category": "Home Goods",
+    "subcategory": "Kitchenware",
+    "attributes": {
+      "Brand": "Cuisinart",
+      "Pieces": 12,
+      "Material": "Stainless Steel"
+    },
+    "quantity": 10
+  },
+  {
+    "id": 28,
+    "name": "Men's Sneakers",
+    "category": "Clothing",
+    "subcategory": "Men's Shoes",
+    "attributes": {
+      "Size": "10",
+      "Color": "White",
+      "Brand": "Puma",
+      "Material": "Leather"
+    },
+    "quantity": 5
+  },
+  {
+    "id": 29,
+    "name": "Electric Guitar",
+    "category": "Musical Instruments",
+    "subcategory": "Guitars",
+    "attributes": {
+      "Brand": "Fender",
+      "Model": "Stratocaster",
+      "Color": "Sunburst"
+    },
+    "quantity": 3
+  },
+  {
+    "id": 30,
+    "name": "Camping Backpack",
+    "category": "Outdoor Gear",
+    "subcategory": "Bags",
+    "attributes": {
+      "Brand": "The North Face",
+      "Capacity": "50L",
+      "Color": "Green"
+    },
+    "quantity": 12
+  },
+  {
+    "id": 31,
+    "name": "Portable Charger",
+    "category": "Electronics",
+    "subcategory": "Mobile Accessories",
+    "attributes": {
+      "Brand": "Anker",
+      "Capacity": "20000mAh",
+      "Color": "Gray"
+    },
+    "quantity": 18
+  },
+  {
+    "id": 32,
+    "name": "Women’s Handbag",
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "attributes": {
+      "Brand": "Michael Kors",
+      "Color": "Tan",
+      "Material": "Leather"
+    },
+    "quantity": 9
+  },
+  {
+    "id": 33,
+    "name": "LED Light Bulbs",
+    "category": "Home Goods",
+    "subcategory": "Lighting",
+    "attributes": {
+      "Brand": "Philips",
+      "Type": "A19",
+      "Wattage": "9W"
+    },
+    "quantity": 40
+  },
+  {
+    "id": 34,
+    "name": "Fitness Tracker",
+    "category": "Electronics",
+    "subcategory": "Wearables",
+    "attributes": {
+      "Brand": "Fitbit",
+      "Model": "Charge 5",
+      "Color": "Black"
+    },
+    "quantity": 16
+  },
+  {
+    "id": 35,
+    "name": "Ceramic Vase",
+    "category": "Home Goods",
+    "subcategory": "Decor",
+    "attributes": {
+      "Brand": "IKEA",
+      "Color": "White",
+      "Material": "Ceramic"
+    },
+    "quantity": 22
+  },
+  {
+    "id": 36,
+    "name": "Electric Drill",
+    "category": "Tools",
+    "subcategory": "Power Tools",
+    "attributes": {
+      "Brand": "DeWalt",
+      "Model": "DCD771C2",
+      "Voltage": "20V"
+    },
+    "quantity": 7
+  },
+  {
+    "id": 37,
+    "name": "Men's Jeans",
+    "category": "Clothing",
+    "subcategory": "Men's Clothing",
+    "attributes": {
+      "Size": "32",
+      "Color": "Dark Blue",
+      "Brand": "Levi's",
+      "Material": "Denim"
+    },
+    "quantity": 19
+  },
+  {
+    "id": 38,
+    "name": "Kitchen Knife Set",
+    "category": "Home Goods",
+    "subcategory": "Kitchenware",
+    "attributes": {
+      "Brand": "Zwilling",
+      "Pieces": 7,
+      "Material": "Stainless Steel"
+    },
+    "quantity": 11
+  },
+  {
+    "id": 39,
+    "name": "Smart LED Bulb",
+    "category": "Electronics",
+    "subcategory": "Lighting",
+    "attributes": {
+      "Brand": "TP-Link",
+      "Model": "Kasa Smart",
+      "Color": "White"
+    },
+    "quantity": 14
+  },
+  {
+    "id": 40,
+    "name": "Mountain Bike",
+    "category": "Sports",
+    "subcategory": "Cycling",
+    "attributes": {
+      "Brand": "Trek",
+      "Model": "Marlin 7",
+      "Size": "17 inches"
+    },
+    "quantity": 4
+  },
+  {
+    "id": 41,
+    "name": "Electric Standing Mixer",
+    "category": "Home Goods",
+    "subcategory": "Kitchen Appliances",
+    "attributes": {
+      "Brand": "KitchenAid",
+      "Model": "Artisan",
+      "Color": "Red"
+    },
+    "quantity": 8
+  },
+  {
+    "id": 42,
+    "name": "Bluetooth Car Kit",
+    "category": "Electronics",
+    "subcategory": "Car Accessories",
+    "attributes": {
+      "Brand": "Nulaxy",
+      "Model": "KM18",
+      "Color": "Black"
+    },
+    "quantity": 13
+  },
+  {
+    "id": 43,
+    "name": "Stainless Steel Water Bottle",
+    "category": "Accessories",
+    "subcategory": "Drinkware",
+    "attributes": {
+      "Brand": "Hydro Flask",
+      "Size": "32oz",
+      "Color": "Silver"
+    },
+    "quantity": 27
+  },
+  {
+    "id": 44,
+    "name": "Men's Leather Belt",
+    "category": "Clothing",
+    "subcategory": "Men's Accessories",
+    "attributes": {
+      "Size": "34",
+      "Color": "Brown",
+      "Brand": "Guess",
+      "Material": "Leather"
+    },
+    "quantity": 10
+  },
+  {
+    "id": 45,
+    "name": "Digital Alarm Clock",
+    "category": "Home Goods",
+    "subcategory": "Bedroom",
+    "attributes": {
+      "Brand": "Philips",
+      "Model": "Wake-Up Light",
+      "Color": "White"
+    },
+    "quantity": 19
+  },
+  {
+    "id": 46,
+    "name": "Wireless Charger",
+    "category": "Electronics",
+    "subcategory": "Mobile Accessories",
+    "attributes": {
+      "Brand": "Belkin",
+      "Model": "Boost Up",
+      "Color": "Black"
+    },
+    "quantity": 24
+  },
+  {
+    "id": 47,
+    "name": "Men's Hoodie",
+    "category": "Clothing",
+    "subcategory": "Men's Clothing",
+    "attributes": {
+      "Size": "L",
+      "Color": "Gray",
+      "Brand": "Champion",
+      "Material": "Cotton Blend"
+    },
+    "quantity": 17
+  },
+  {
+    "id": 48,
+    "name": "Electric Shaver",
+    "category": "Personal Care",
+    "subcategory": "Grooming",
+    "attributes": {
+      "Brand": "Philips",
+      "Model": "Norelco",
+      "Color": "Silver"
+    },
+    "quantity": 20
+  },
+  {
+    "id": 49,
+    "name": "Kitchen Scale",
+    "category": "Home Goods",
+    "subcategory": "Kitchen Appliances",
+    "attributes": {
+      "Brand": "Etekcity",
+      "Model": "Digital",
+      "Color": "Black"
+    },
+    "quantity": 16
+  },
+  {
+    "id": 50,
+    "name": "Outdoor Camping Tent",
+    "category": "Home Goods",
+    "subcategory": "Outdoor Gear",
+    "attributes": {
+      "Brand": "Coleman",
+      "Size": "4-person",
+      "Color": "Green",
+      "Material": "Polyester"
+    },
+    "quantity": 5
+  }
+]
